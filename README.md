@@ -1,44 +1,43 @@
-# python-getting-started
+# Heroku Django Starter Template
 
-A barebones Python app, which can easily be deployed to Heroku.
+An utterly fantastic project starter template for Django 1.9.
 
-This application supports the [Getting Started with Python on Heroku](https://devcenter.heroku.com/articles/getting-started-with-python) article - check it out.
+## Features
 
-## Running Locally
+- Production-ready configuration for Static Files, Database Settings, Gunicorn, etc.
+- Enhancements to Django's static file serving functionality via WhiteNoise
 
-Make sure you have Python [installed properly](http://install.python-guide.org).  Also, install the [Heroku Toolbelt](https://toolbelt.heroku.com/) and [Postgres](https://devcenter.heroku.com/articles/heroku-postgresql#local-setup).
+## How to Use
 
-```sh
-$ git clone git@github.com:heroku/python-getting-started.git
-$ cd python-getting-started
+To use this project, follow these steps:
 
-$ pip install -r requirements.txt
+1. Create your working environment.
+2. Install Django (`$ pip install django`)
+3. Create a new project using this template
 
-$ createdb python_getting_started
+## Creating Your Project
 
-$ python manage.py migrate
-$ python manage.py collectstatic
+Using this template to create a new Django app is easy::
 
-$ heroku local
-```
+    $ django-admin.py startproject --template=https://github.com/heroku/heroku-django-template/archive/master.zip --name=Procfile helloworld
 
-Your app should now be running on [localhost:5000](http://localhost:5000/).
+You can replace ``helloworld`` with your desired project name.
 
-## Deploying to Heroku
+## Deployment to Heroku
 
-```sh
-$ heroku create
-$ git push heroku master
+    $ git init
+    $ git add -A
+    $ git commit -m "Initial commit"
 
-$ heroku run python manage.py migrate
-$ heroku open
-```
-or
+    $ heroku create
+    $ git push heroku master
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+    $ heroku run python manage.py migrate
 
-## Documentation
+See also, a [ready-made application](https://github.com/heroku/python-getting-started), ready to deploy.
 
-For more information about using Python on Heroku, see these Dev Center articles:
+## Further Reading
 
-- [Python on Heroku](https://devcenter.heroku.com/categories/python)
+- [Gunicorn](https://warehouse.python.org/project/gunicorn/)
+- [WhiteNoise](https://warehouse.python.org/project/whitenoise/)
+- [dj-database-url](https://warehouse.python.org/project/dj-database-url/)
