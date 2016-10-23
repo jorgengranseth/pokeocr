@@ -1,0 +1,3 @@
+validate img: content length header fra request i form-controlleren (viewet)
+
+handle image upload by analysis + redirect to results
