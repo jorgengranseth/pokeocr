@@ -1,0 +1,3221 @@
+{
+  "Oddish": {
+    "Flee Rate %": 15,
+    "#": 43,
+    "Quick Moves": [
+      "Acid",
+      "Razor Leaf"
+    ],
+    "Candy": 25,
+    "Stamina": 90,
+    "Attack": 134,
+    "Defence": 130,
+    "Capture Rate %": 48,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Moonblast",
+      "Seed Bomb",
+      "Sludge Bomb"
+    ]
+  },
+  "Weezing": {
+    "Flee Rate %": 6,
+    "#": 110,
+    "Quick Moves": [
+      "Acid",
+      "Tackle"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 190,
+    "Defence": 198,
+    "Capture Rate %": 16,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dark Pulse",
+      "Shadow Ball",
+      "Sludge Bomb"
+    ]
+  },
+  "Magikarp": {
+    "Flee Rate %": 15,
+    "#": 129,
+    "Quick Moves": [
+      "Splash"
+    ],
+    "Candy": 400,
+    "Stamina": 40,
+    "Attack": 42,
+    "Defence": 84,
+    "Capture Rate %": 56,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Struggle"
+    ]
+  },
+  "Jynx": {
+    "Flee Rate %": 9,
+    "#": 124,
+    "Quick Moves": [
+      "Frost Breath",
+      "Pound"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 172,
+    "Defence": 134,
+    "Capture Rate %": 24,
+    "Type": [
+      "Ice",
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Draining Kiss",
+      "Ice Punch",
+      "Psyshock"
+    ]
+  },
+  "Paras": {
+    "Flee Rate %": 15,
+    "#": 46,
+    "Quick Moves": [
+      "Bug Bite",
+      "Scratch"
+    ],
+    "Candy": 50,
+    "Stamina": 70,
+    "Attack": 122,
+    "Defence": 120,
+    "Capture Rate %": 32,
+    "Type": [
+      "Bug",
+      "Grass"
+    ],
+    "Special Moves": [
+      "Cross Poison",
+      "Seed Bomb",
+      "X-Scissor"
+    ]
+  },
+  "Kadabra": {
+    "Flee Rate %": 7,
+    "#": 64,
+    "Quick Moves": [
+      "Confusion",
+      "Psycho Cut"
+    ],
+    "Candy": 100,
+    "Stamina": 80,
+    "Attack": 150,
+    "Defence": 112,
+    "Capture Rate %": 20,
+    "Type": [
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Dazzling Gleam",
+      "Psybeam",
+      "Shadow Ball"
+    ]
+  },
+  "Sandslash": {
+    "Flee Rate %": 6,
+    "#": 28,
+    "Quick Moves": [
+      "Metal Claw",
+      "Mud Shot"
+    ],
+    "Candy": null,
+    "Stamina": 150,
+    "Attack": 150,
+    "Defence": 172,
+    "Capture Rate %": 16,
+    "Type": [
+      "Ground"
+    ],
+    "Special Moves": [
+      "Bulldoze",
+      "Earthquake",
+      "Rock Tomb"
+    ]
+  },
+  "Beedrill": {
+    "Flee Rate %": 6,
+    "#": 15,
+    "Quick Moves": [
+      "Bug Bite",
+      "Poison Jab"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 144,
+    "Defence": 130,
+    "Capture Rate %": 10,
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Sludge Bomb",
+      "X-Scissor"
+    ]
+  },
+  "Hitmonlee": {
+    "Flee Rate %": 9,
+    "#": 106,
+    "Quick Moves": [
+      "Low Kick",
+      "Rock Smash"
+    ],
+    "Candy": null,
+    "Stamina": 100,
+    "Attack": 148,
+    "Defence": 172,
+    "Capture Rate %": 16,
+    "Type": [
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Low Sweep",
+      "Stomp",
+      "Stone Edge"
+    ]
+  },
+  "Poliwrath": {
+    "Flee Rate %": 5,
+    "#": 62,
+    "Quick Moves": [
+      "Bubble",
+      "Mud Shot"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 180,
+    "Defence": 202,
+    "Capture Rate %": 10,
+    "Type": [
+      "Water",
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Hydro Pump",
+      "Ice Punch",
+      "Submission"
+    ]
+  },
+  "Machamp": {
+    "Flee Rate %": 5,
+    "#": 68,
+    "Quick Moves": [
+      "Bullet Punch",
+      "Karate Chop"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 198,
+    "Defence": 180,
+    "Capture Rate %": 10,
+    "Type": [
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Cross Chop",
+      "Stone Edge",
+      "Submission"
+    ]
+  },
+  "Butterfree": {
+    "Flee Rate %": 6,
+    "#": 12,
+    "Quick Moves": [
+      "Bug Bite",
+      "Confusion"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 144,
+    "Defence": 144,
+    "Capture Rate %": 10,
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Bug Buzz",
+      "Psychic",
+      "Signal Beam"
+    ]
+  },
+  "Raichu": {
+    "Flee Rate %": 6,
+    "#": 26,
+    "Quick Moves": [
+      "Spark",
+      "Thunder Shock"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 200,
+    "Defence": 154,
+    "Capture Rate %": 8,
+    "Type": [
+      "Electric"
+    ],
+    "Special Moves": [
+      "Brick Break",
+      "Thunder",
+      "Thunder Punch"
+    ]
+  },
+  "Omanyte": {
+    "Flee Rate %": 9,
+    "#": 138,
+    "Quick Moves": [
+      "Mud Shot",
+      "Water Gun"
+    ],
+    "Candy": 50,
+    "Stamina": 70,
+    "Attack": 132,
+    "Defence": 160,
+    "Capture Rate %": 32,
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Special Moves": [
+      "Ancient Power",
+      "Brine",
+      "Rock Tomb"
+    ]
+  },
+  "Tangela": {
+    "Flee Rate %": 9,
+    "#": 114,
+    "Quick Moves": [
+      "Vine Whip"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 164,
+    "Defence": 152,
+    "Capture Rate %": 32,
+    "Type": [
+      "Grass"
+    ],
+    "Special Moves": [
+      "Power Whip",
+      "Sludge Bomb",
+      "Solar Beam"
+    ]
+  },
+  "Slowpoke": {
+    "Flee Rate %": 10,
+    "#": 79,
+    "Quick Moves": [
+      "Confusion",
+      "Water Gun"
+    ],
+    "Candy": 50,
+    "Stamina": 180,
+    "Attack": 110,
+    "Defence": 110,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water",
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Psychic",
+      "Psyshock",
+      "Water Pulse"
+    ]
+  },
+  "Mew": {
+    "Flee Rate %": 10,
+    "#": 151,
+    "Quick Moves": [
+      "Pound"
+    ],
+    "Candy": null,
+    "Stamina": 200,
+    "Attack": 220,
+    "Defence": 220,
+    "Capture Rate %": "-",
+    "Type": [
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Dragon Pulse",
+      "Earthquake",
+      "Fire Blast",
+      "Hurricane",
+      "Hyper Beam",
+      "Moonblast",
+      "Psychic",
+      "Solar Beam",
+      "Thunder"
+    ]
+  },
+  "Diglett": {
+    "Flee Rate %": 10,
+    "#": 50,
+    "Quick Moves": [
+      "Mud Shot",
+      "Scratch"
+    ],
+    "Candy": 50,
+    "Stamina": 20,
+    "Attack": 108,
+    "Defence": 86,
+    "Capture Rate %": 40,
+    "Type": [
+      "Ground"
+    ],
+    "Special Moves": [
+      "Dig",
+      "Mud Bomb",
+      "Rock Tomb"
+    ]
+  },
+  "Rhydon": {
+    "Flee Rate %": 6,
+    "#": 112,
+    "Quick Moves": [
+      "Mud-Slap",
+      "Rock Smash"
+    ],
+    "Candy": null,
+    "Stamina": 210,
+    "Attack": 166,
+    "Defence": 160,
+    "Capture Rate %": 16,
+    "Type": [
+      "Ground",
+      "Rock"
+    ],
+    "Special Moves": [
+      "Earthquake",
+      "Megahorn",
+      "Stone Edge"
+    ]
+  },
+  "Poliwhirl": {
+    "Flee Rate %": 7,
+    "#": 61,
+    "Quick Moves": [
+      "Bubble",
+      "Mud Shot"
+    ],
+    "Candy": 100,
+    "Stamina": 130,
+    "Attack": 132,
+    "Defence": 132,
+    "Capture Rate %": 20,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Bubble Beam",
+      "Mud Bomb",
+      "Scald"
+    ]
+  },
+  "Farfetch'd": {
+    "Flee Rate %": 9,
+    "#": 83,
+    "Quick Moves": [
+      "Cut",
+      "Fury Cutter"
+    ],
+    "Candy": null,
+    "Stamina": 104,
+    "Attack": 138,
+    "Defence": 132,
+    "Capture Rate %": 24,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Air Cutter",
+      "Leaf Blade"
+    ]
+  },
+  "Raticate": {
+    "Flee Rate %": 7,
+    "#": 20,
+    "Quick Moves": [
+      "Bite",
+      "Quick Attack"
+    ],
+    "Candy": null,
+    "Stamina": 110,
+    "Attack": 146,
+    "Defence": 150,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Dig",
+      "Hyper Beam",
+      "Hyper Fang"
+    ]
+  },
+  "Tentacool": {
+    "Flee Rate %": 15,
+    "#": 72,
+    "Quick Moves": [
+      "Bubble",
+      "Poison Sting"
+    ],
+    "Candy": 50,
+    "Stamina": 80,
+    "Attack": 106,
+    "Defence": 136,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Bubble Beam",
+      "Water Pulse",
+      "Wrap"
+    ]
+  },
+  "Magnemite": {
+    "Flee Rate %": 10,
+    "#": 81,
+    "Quick Moves": [
+      "Spark",
+      "Thunder Shock"
+    ],
+    "Candy": 50,
+    "Stamina": 50,
+    "Attack": 128,
+    "Defence": 138,
+    "Capture Rate %": 40,
+    "Type": [
+      "Electric",
+      "Steel"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Magnet Bomb",
+      "Thunderbolt"
+    ]
+  },
+  "Ditto": {
+    "Flee Rate %": 10,
+    "#": 132,
+    "Quick Moves": [
+      "Pound"
+    ],
+    "Candy": null,
+    "Stamina": 96,
+    "Attack": 110,
+    "Defence": 110,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Struggle"
+    ]
+  },
+  "Aerodactyl": {
+    "Flee Rate %": 9,
+    "#": 142,
+    "Quick Moves": [
+      "Bite",
+      "Steel Wing"
+    ],
+    "Candy": null,
+    "Stamina": 160,
+    "Attack": 182,
+    "Defence": 162,
+    "Capture Rate %": 16,
+    "Type": [
+      "Rock",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Ancient Power",
+      "Hyper Beam",
+      "Iron Head"
+    ]
+  },
+  "Koffing": {
+    "Flee Rate %": 10,
+    "#": 109,
+    "Quick Moves": [
+      "Acid",
+      "Tackle"
+    ],
+    "Candy": 50,
+    "Stamina": 80,
+    "Attack": 136,
+    "Defence": 142,
+    "Capture Rate %": 40,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dark Pulse",
+      "Sludge",
+      "Sludge Bomb"
+    ]
+  },
+  "Shellder": {
+    "Flee Rate %": 10,
+    "#": 90,
+    "Quick Moves": [
+      "Ice Shard",
+      "Tackle"
+    ],
+    "Candy": 50,
+    "Stamina": 60,
+    "Attack": 120,
+    "Defence": 112,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Bubble Beam",
+      "Icy Wind",
+      "Water Pulse"
+    ]
+  },
+  "Magmar": {
+    "Flee Rate %": 9,
+    "#": 126,
+    "Quick Moves": [
+      "Ember",
+      "Karate Chop"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 214,
+    "Defence": 158,
+    "Capture Rate %": 24,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Fire Blast",
+      "Fire Punch",
+      "Flamethrower"
+    ]
+  },
+  "Mankey": {
+    "Flee Rate %": 10,
+    "#": 56,
+    "Quick Moves": [
+      "Karate Chop",
+      "Scratch"
+    ],
+    "Candy": 50,
+    "Stamina": 80,
+    "Attack": 122,
+    "Defence": 96,
+    "Capture Rate %": 40,
+    "Type": [
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Brick Break",
+      "Cross Chop",
+      "Low Sweep"
+    ]
+  },
+  "Dratini": {
+    "Flee Rate %": 9,
+    "#": 147,
+    "Quick Moves": [
+      "Dragon Breath"
+    ],
+    "Candy": 25,
+    "Stamina": 82,
+    "Attack": 128,
+    "Defence": 110,
+    "Capture Rate %": "32",
+    "Type": [
+      "Dragon"
+    ],
+    "Special Moves": [
+      "Aqua Tail",
+      "Twister",
+      "Wrap"
+    ]
+  },
+  "Nidoqueen": {
+    "Flee Rate %": 5,
+    "#": 31,
+    "Quick Moves": [
+      "Bite",
+      "Poison Jab"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 184,
+    "Defence": 190,
+    "Capture Rate %": 10,
+    "Type": [
+      "Poison",
+      "Ground"
+    ],
+    "Special Moves": [
+      "Earthquake",
+      "Sludge Wave",
+      "Stone Edge"
+    ]
+  },
+  "Charmeleon": {
+    "Flee Rate %": 7,
+    "#": 5,
+    "Quick Moves": [
+      "Ember",
+      "Scratch"
+    ],
+    "Candy": 100,
+    "Stamina": 116,
+    "Attack": 160,
+    "Defence": 140,
+    "Capture Rate %": 8,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Fire Punch",
+      "Flame Burst",
+      "Flamethrower"
+    ]
+  },
+  "Psyduck": {
+    "Flee Rate %": 10,
+    "#": 54,
+    "Quick Moves": [
+      "Water Gun",
+      "Zen Headbutt"
+    ],
+    "Candy": 50,
+    "Stamina": 100,
+    "Attack": 132,
+    "Defence": 112,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Aqua Tail",
+      "Cross Chop",
+      "Psybeam"
+    ]
+  },
+  "Slowbro": {
+    "Flee Rate %": 6,
+    "#": 80,
+    "Quick Moves": [
+      "Confusion",
+      "Water Gun"
+    ],
+    "Candy": null,
+    "Stamina": 190,
+    "Attack": 184,
+    "Defence": 198,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water",
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Ice Beam",
+      "Psychic",
+      "Water Pulse"
+    ]
+  },
+  "Snorlax": {
+    "Flee Rate %": 9,
+    "#": 143,
+    "Quick Moves": [
+      "Lick",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 320,
+    "Attack": 180,
+    "Defence": 180,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Earthquake",
+      "Hyper Beam"
+    ]
+  },
+  "Arcanine": {
+    "Flee Rate %": 6,
+    "#": 59,
+    "Quick Moves": [
+      "Bite",
+      "Fire Fang"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 230,
+    "Defence": 180,
+    "Capture Rate %": 8,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Bulldoze",
+      "Fire Blast",
+      "Flamethrower"
+    ]
+  },
+  "Omastar": {
+    "Flee Rate %": 5,
+    "#": 139,
+    "Quick Moves": [
+      "Rock Throw",
+      "Water Gun"
+    ],
+    "Candy": null,
+    "Stamina": 140,
+    "Attack": 180,
+    "Defence": 202,
+    "Capture Rate %": 12,
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Special Moves": [
+      "Ancient Power",
+      "Hydro Pump",
+      "Rock Slide"
+    ]
+  },
+  "Growlithe": {
+    "Flee Rate %": 10,
+    "#": 58,
+    "Quick Moves": [
+      "Bite",
+      "Ember"
+    ],
+    "Candy": 50,
+    "Stamina": 110,
+    "Attack": 156,
+    "Defence": 110,
+    "Capture Rate %": 24,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Flame Wheel",
+      "Flamethrower"
+    ]
+  },
+  "Articuno": {
+    "Flee Rate %": 10,
+    "#": 144,
+    "Quick Moves": [
+      "Frost Breath"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 198,
+    "Defence": 242,
+    "Capture Rate %": null,
+    "Type": [
+      "Ice",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Blizzard",
+      "Ice Beam",
+      "Icy Wind"
+    ]
+  },
+  "Blastoise": {
+    "Flee Rate %": 5,
+    "#": 9,
+    "Quick Moves": [
+      "Bite",
+      "Water Gun"
+    ],
+    "Candy": null,
+    "Stamina": 158,
+    "Attack": 186,
+    "Defence": 222,
+    "Capture Rate %": 4,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Flash Cannon",
+      "Hydro Pump",
+      "Ice Beam"
+    ]
+  },
+  "Golem": {
+    "Flee Rate %": 5,
+    "#": 76,
+    "Quick Moves": [
+      "Mud Shot",
+      "Rock Throw"
+    ],
+    "Candy": null,
+    "Stamina": 160,
+    "Attack": 176,
+    "Defence": 198,
+    "Capture Rate %": 10,
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Special Moves": [
+      "Ancient Power",
+      "Earthquake",
+      "Stone Edge"
+    ]
+  },
+  "Krabby": {
+    "Flee Rate %": 15,
+    "#": 98,
+    "Quick Moves": [
+      "Bubble",
+      "Mud Shot"
+    ],
+    "Candy": 50,
+    "Stamina": 60,
+    "Attack": 116,
+    "Defence": 110,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Bubble Beam",
+      "Vice Grip",
+      "Water Pulse"
+    ]
+  },
+  "Pinsir": {
+    "Flee Rate %": 9,
+    "#": 127,
+    "Quick Moves": [
+      "Fury Cutter",
+      "Rock Smash"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 184,
+    "Defence": 186,
+    "Capture Rate %": 24,
+    "Type": [
+      "Bug"
+    ],
+    "Special Moves": [
+      "Submission",
+      "Vice Grip",
+      "X-Scissor"
+    ]
+  },
+  "Cloyster": {
+    "Flee Rate %": 6,
+    "#": 91,
+    "Quick Moves": [
+      "Frost Breath",
+      "Ice Shard"
+    ],
+    "Candy": null,
+    "Stamina": 100,
+    "Attack": 196,
+    "Defence": 196,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water",
+      "Ice"
+    ],
+    "Special Moves": [
+      "Blizzard",
+      "Hydro Pump",
+      "Icy Wind"
+    ]
+  },
+  "Kangaskhan": {
+    "Flee Rate %": 9,
+    "#": 115,
+    "Quick Moves": [
+      "Low Kick",
+      "Mud-Slap"
+    ],
+    "Candy": null,
+    "Stamina": 210,
+    "Attack": 142,
+    "Defence": 178,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Brick Break",
+      "Earthquake",
+      "Stomp"
+    ]
+  },
+  "Tauros": {
+    "Flee Rate %": 9,
+    "#": 128,
+    "Quick Moves": [
+      "Tackle",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 150,
+    "Attack": 148,
+    "Defence": 184,
+    "Capture Rate %": 24,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Earthquake",
+      "Horn Attack",
+      "Iron Head"
+    ]
+  },
+  "Fearow": {
+    "Flee Rate %": 7,
+    "#": 22,
+    "Quick Moves": [
+      "Peck",
+      "Steel Wing"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 168,
+    "Defence": 146,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Drill Run",
+      "Twister"
+    ]
+  },
+  "Bulbasaur": {
+    "Flee Rate %": 10,
+    "#": 1,
+    "Quick Moves": [
+      "Tackle",
+      "Vine Whip"
+    ],
+    "Candy": 25,
+    "Stamina": 90,
+    "Attack": 126,
+    "Defence": 126,
+    "Capture Rate %": 16,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Power Whip",
+      "Seed Bomb",
+      "Sludge Bomb"
+    ]
+  },
+  "Jigglypuff": {
+    "Flee Rate %": 10,
+    "#": 39,
+    "Quick Moves": [
+      "Feint Attack",
+      "Pound"
+    ],
+    "Candy": 50,
+    "Stamina": 230,
+    "Attack": 98,
+    "Defence": 54,
+    "Capture Rate %": 40,
+    "Type": [
+      "Normal",
+      "Fairy"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Disarming Voice",
+      "Play Rough"
+    ]
+  },
+  "Abra": {
+    "Flee Rate %": 99,
+    "#": 63,
+    "Quick Moves": [
+      "Zen Headbutt"
+    ],
+    "Candy": 25,
+    "Stamina": 50,
+    "Attack": 110,
+    "Defence": 76,
+    "Capture Rate %": 40,
+    "Type": [
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Psyshock",
+      "Shadow Ball",
+      "Signal Beam"
+    ]
+  },
+  "Arbok": {
+    "Flee Rate %": 7,
+    "#": 24,
+    "Quick Moves": [
+      "Acid",
+      "Bite"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 166,
+    "Defence": 166,
+    "Capture Rate %": 16,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dark Pulse",
+      "Gunk Shot",
+      "Sludge Wave"
+    ]
+  },
+  "Doduo": {
+    "Flee Rate %": 10,
+    "#": 84,
+    "Quick Moves": [
+      "Peck",
+      "Quick Attack"
+    ],
+    "Candy": 50,
+    "Stamina": 70,
+    "Attack": 126,
+    "Defence": 96,
+    "Capture Rate %": 40,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Drill Peck",
+      "Swift"
+    ]
+  },
+  "Muk": {
+    "Flee Rate %": 6,
+    "#": 89,
+    "Quick Moves": [
+      "Acid",
+      "Poison Jab"
+    ],
+    "Candy": null,
+    "Stamina": 210,
+    "Attack": 180,
+    "Defence": 188,
+    "Capture Rate %": 16,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dark Pulse",
+      "Gunk Shot",
+      "Sludge Wave"
+    ]
+  },
+  "Marowak": {
+    "Flee Rate %": 6,
+    "#": 105,
+    "Quick Moves": [
+      "Mud-Slap",
+      "Rock Smash"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 140,
+    "Defence": 202,
+    "Capture Rate %": 12,
+    "Type": [
+      "Ground"
+    ],
+    "Special Moves": [
+      "Bone Club",
+      "Dig",
+      "Earthquake"
+    ]
+  },
+  "Wartortle": {
+    "Flee Rate %": 7,
+    "#": 8,
+    "Quick Moves": [
+      "Bite",
+      "Water Gun"
+    ],
+    "Candy": 100,
+    "Stamina": 118,
+    "Attack": 144,
+    "Defence": 176,
+    "Capture Rate %": 8,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Aqua Jet",
+      "Hydro Pump",
+      "Ice Beam"
+    ]
+  },
+  "Wigglytuff": {
+    "Flee Rate %": 6,
+    "#": 40,
+    "Quick Moves": [
+      "Feint Attack",
+      "Pound"
+    ],
+    "Candy": null,
+    "Stamina": 280,
+    "Attack": 168,
+    "Defence": 108,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal",
+      "Fairy"
+    ],
+    "Special Moves": [
+      "Dazzling Gleam",
+      "Hyper Beam",
+      "Play Rough"
+    ]
+  },
+  "Porygon": {
+    "Flee Rate %": 9,
+    "#": 137,
+    "Quick Moves": [
+      "Quick Attack",
+      "Tackle"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 156,
+    "Defence": 158,
+    "Capture Rate %": 32,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Psybeam",
+      "Signal Beam"
+    ]
+  },
+  "Graveler": {
+    "Flee Rate %": 7,
+    "#": 75,
+    "Quick Moves": [
+      "Mud Shot",
+      "Rock Throw"
+    ],
+    "Candy": 100,
+    "Stamina": 110,
+    "Attack": 142,
+    "Defence": 156,
+    "Capture Rate %": 20,
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Special Moves": [
+      "Dig",
+      "Rock Slide",
+      "Stone Edge"
+    ]
+  },
+  "Chansey": {
+    "Flee Rate %": 9,
+    "#": 113,
+    "Quick Moves": [
+      "Pound",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 500,
+    "Attack": 40,
+    "Defence": 60,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Dazzling Gleam",
+      "Psybeam",
+      "Psychic"
+    ]
+  },
+  "Nidoran\u2642": {
+    "Flee Rate %": 15,
+    "#": 32,
+    "Quick Moves": [
+      "Peck",
+      "Poison Sting"
+    ],
+    "Candy": 25,
+    "Stamina": 92,
+    "Attack": 110,
+    "Defence": 94,
+    "Capture Rate %": 40,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Horn Attack",
+      "Sludge Bomb"
+    ]
+  },
+  "Geodude": {
+    "Flee Rate %": 10,
+    "#": 74,
+    "Quick Moves": [
+      "Rock Throw",
+      "Tackle"
+    ],
+    "Candy": 25,
+    "Stamina": 80,
+    "Attack": 106,
+    "Defence": 118,
+    "Capture Rate %": 40,
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Special Moves": [
+      "Dig",
+      "Rock Slide",
+      "Rock Tomb"
+    ]
+  },
+  "Pidgeotto": {
+    "Flee Rate %": 9,
+    "#": 17,
+    "Quick Moves": [
+      "Steel Wing",
+      "Wing Attack"
+    ],
+    "Candy": 50,
+    "Stamina": 126,
+    "Attack": 126,
+    "Defence": 122,
+    "Capture Rate %": 20,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Air Cutter",
+      "Twister"
+    ]
+  },
+  "Rattata": {
+    "Flee Rate %": 20,
+    "#": 19,
+    "Quick Moves": [
+      "Quick Attack",
+      "Tackle"
+    ],
+    "Candy": 25,
+    "Stamina": 60,
+    "Attack": 92,
+    "Defence": 86,
+    "Capture Rate %": 40,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Dig",
+      "Hyper Fang"
+    ]
+  },
+  "Mewtwo": {
+    "Flee Rate %": 10,
+    "#": 150,
+    "Quick Moves": [
+      "Confusion",
+      "Psycho Cut"
+    ],
+    "Candy": null,
+    "Stamina": 212,
+    "Attack": 284,
+    "Defence": 202,
+    "Capture Rate %": "-",
+    "Type": [
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Hyper Beam",
+      "Psychic",
+      "Shadow Ball"
+    ]
+  },
+  "Primeape": {
+    "Flee Rate %": 6,
+    "#": 57,
+    "Quick Moves": [
+      "Karate Chop",
+      "Low Kick"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 178,
+    "Defence": 150,
+    "Capture Rate %": 16,
+    "Type": [
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Cross Chop",
+      "Low Sweep",
+      "Night Slash"
+    ]
+  },
+  "Squirtle": {
+    "Flee Rate %": 10,
+    "#": 7,
+    "Quick Moves": [
+      "Bubble",
+      "Tackle"
+    ],
+    "Candy": 25,
+    "Stamina": 88,
+    "Attack": 112,
+    "Defence": 142,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Aqua Jet",
+      "Aqua Tail",
+      "Water Pulse"
+    ]
+  },
+  "Vulpix": {
+    "Flee Rate %": 10,
+    "#": 37,
+    "Quick Moves": [
+      "Ember",
+      "Quick Attack"
+    ],
+    "Candy": 50,
+    "Stamina": 76,
+    "Attack": 106,
+    "Defence": 118,
+    "Capture Rate %": 24,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Flame Charge",
+      "Flamethrower"
+    ]
+  },
+  "Zapdos": {
+    "Flee Rate %": 10,
+    "#": 145,
+    "Quick Moves": [
+      "Thunder Shock"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 232,
+    "Defence": 194,
+    "Capture Rate %": "-",
+    "Type": [
+      "Electric",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Thunder",
+      "Thunderbolt"
+    ]
+  },
+  "Bellsprout": {
+    "Flee Rate %": 15,
+    "#": 69,
+    "Quick Moves": [
+      "Acid",
+      "Vine Whip"
+    ],
+    "Candy": 25,
+    "Stamina": 100,
+    "Attack": 158,
+    "Defence": 78,
+    "Capture Rate %": 40,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Power Whip",
+      "Sludge Bomb",
+      "Wrap"
+    ]
+  },
+  "Jolteon": {
+    "Flee Rate %": 6,
+    "#": 135,
+    "Quick Moves": [
+      "Thunder Shock"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 192,
+    "Defence": 174,
+    "Capture Rate %": 12,
+    "Type": [
+      "Electric"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Thunder",
+      "Thunderbolt"
+    ]
+  },
+  "Venusaur": {
+    "Flee Rate %": 5,
+    "#": 3,
+    "Quick Moves": [
+      "Razor Leaf",
+      "Vine Whip"
+    ],
+    "Candy": null,
+    "Stamina": 160,
+    "Attack": 198,
+    "Defence": 200,
+    "Capture Rate %": 4,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Petal Blizzard",
+      "Sludge Bomb",
+      "Solar Beam"
+    ]
+  },
+  "Poliwag": {
+    "Flee Rate %": 15,
+    "#": 60,
+    "Quick Moves": [
+      "Bubble",
+      "Mud Shot"
+    ],
+    "Candy": 25,
+    "Stamina": 80,
+    "Attack": 108,
+    "Defence": 98,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Bubble Beam",
+      "Mud Bomb"
+    ]
+  },
+  "Spearow": {
+    "Flee Rate %": 15,
+    "#": 21,
+    "Quick Moves": [
+      "Peck",
+      "Quick Attack"
+    ],
+    "Candy": 50,
+    "Stamina": 80,
+    "Attack": 102,
+    "Defence": 78,
+    "Capture Rate %": 40,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Drill Peck",
+      "Twister"
+    ]
+  },
+  "Golduck": {
+    "Flee Rate %": 6,
+    "#": 55,
+    "Quick Moves": [
+      "Confusion",
+      "Water Gun"
+    ],
+    "Candy": null,
+    "Stamina": 160,
+    "Attack": 194,
+    "Defence": 176,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Hydro Pump",
+      "Ice Beam",
+      "Psychic"
+    ]
+  },
+  "Ekans": {
+    "Flee Rate %": 15,
+    "#": 23,
+    "Quick Moves": [
+      "Acid",
+      "Poison Sting"
+    ],
+    "Candy": 50,
+    "Stamina": 70,
+    "Attack": 112,
+    "Defence": 112,
+    "Capture Rate %": 40,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Gunk Shot",
+      "Sludge Bomb",
+      "Wrap"
+    ]
+  },
+  "Alakazam": {
+    "Flee Rate %": 5,
+    "#": 65,
+    "Quick Moves": [
+      "Confusion",
+      "Psycho Cut"
+    ],
+    "Candy": null,
+    "Stamina": 110,
+    "Attack": 186,
+    "Defence": 152,
+    "Capture Rate %": 10,
+    "Type": [
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Dazzling Gleam",
+      "Psychic",
+      "Shadow Ball"
+    ]
+  },
+  "Kabutops": {
+    "Flee Rate %": 5,
+    "#": 141,
+    "Quick Moves": [
+      "Fury Cutter",
+      "Mud Shot"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 190,
+    "Defence": 190,
+    "Capture Rate %": 12,
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Special Moves": [
+      "Ancient Power",
+      "Stone Edge",
+      "Water Pulse"
+    ]
+  },
+  "Seel": {
+    "Flee Rate %": 9,
+    "#": 86,
+    "Quick Moves": [
+      "Ice Shard",
+      "Water Gun"
+    ],
+    "Candy": 50,
+    "Stamina": 130,
+    "Attack": 104,
+    "Defence": 138,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Aqua Jet",
+      "Aqua Tail",
+      "Icy Wind"
+    ]
+  },
+  "Voltorb": {
+    "Flee Rate %": 10,
+    "#": 100,
+    "Quick Moves": [
+      "Spark",
+      "Tackle"
+    ],
+    "Candy": 50,
+    "Stamina": 80,
+    "Attack": 102,
+    "Defence": 124,
+    "Capture Rate %": 40,
+    "Type": [
+      "Electric"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Signal Beam",
+      "Thunderbolt"
+    ]
+  },
+  "Dragonite": {
+    "Flee Rate %": 5,
+    "#": 149,
+    "Quick Moves": [
+      "Dragon Breath",
+      "Steel Wing"
+    ],
+    "Candy": null,
+    "Stamina": 182,
+    "Attack": 250,
+    "Defence": 212,
+    "Capture Rate %": "4",
+    "Type": [
+      "Dragon",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Dragon Claw",
+      "Dragon Pulse",
+      "Hyper Beam"
+    ]
+  },
+  "Gyarados": {
+    "Flee Rate %": 7,
+    "#": 130,
+    "Quick Moves": [
+      "Bite",
+      "Dragon Breath"
+    ],
+    "Candy": null,
+    "Stamina": 190,
+    "Attack": 192,
+    "Defence": 196,
+    "Capture Rate %": 8,
+    "Type": [
+      "Water",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Dragon Pulse",
+      "Hydro Pump",
+      "Twister"
+    ]
+  },
+  "Vaporeon": {
+    "Flee Rate %": 6,
+    "#": 134,
+    "Quick Moves": [
+      "Water Gun"
+    ],
+    "Candy": null,
+    "Stamina": 260,
+    "Attack": 186,
+    "Defence": 168,
+    "Capture Rate %": 12,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Aqua Tail",
+      "Hydro Pump",
+      "Water Pulse"
+    ]
+  },
+  "Metapod": {
+    "Flee Rate %": 9,
+    "#": 11,
+    "Quick Moves": [
+      "Bug Bite",
+      "Tackle"
+    ],
+    "Candy": 50,
+    "Stamina": 100,
+    "Attack": 56,
+    "Defence": 86,
+    "Capture Rate %": 20,
+    "Type": [
+      "Bug"
+    ],
+    "Special Moves": [
+      "Struggle"
+    ]
+  },
+  "Dragonair": {
+    "Flee Rate %": 6,
+    "#": 148,
+    "Quick Moves": [
+      "Dragon Breath"
+    ],
+    "Candy": 100,
+    "Stamina": 122,
+    "Attack": 170,
+    "Defence": 152,
+    "Capture Rate %": "8",
+    "Type": [
+      "Dragon"
+    ],
+    "Special Moves": [
+      "Aqua Tail",
+      "Dragon Pulse",
+      "Wrap"
+    ]
+  },
+  "Ponyta": {
+    "Flee Rate %": 10,
+    "#": 77,
+    "Quick Moves": [
+      "Ember",
+      "Tackle"
+    ],
+    "Candy": 50,
+    "Stamina": 100,
+    "Attack": 168,
+    "Defence": 138,
+    "Capture Rate %": 32,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Fire Blast",
+      "Flame Charge",
+      "Flame Wheel"
+    ]
+  },
+  "Lickitung": {
+    "Flee Rate %": 9,
+    "#": 108,
+    "Quick Moves": [
+      "Lick",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 126,
+    "Defence": 160,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Hyper Beam",
+      "Power Whip",
+      "Stomp"
+    ]
+  },
+  "Haunter": {
+    "Flee Rate %": 7,
+    "#": 93,
+    "Quick Moves": [
+      "Lick",
+      "Shadow Claw"
+    ],
+    "Candy": 100,
+    "Stamina": 90,
+    "Attack": 172,
+    "Defence": 118,
+    "Capture Rate %": 16,
+    "Type": [
+      "Ghost",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dark Pulse",
+      "Shadow Ball",
+      "Sludge Bomb"
+    ]
+  },
+  "Ivysaur": {
+    "Flee Rate %": 7,
+    "#": 2,
+    "Quick Moves": [
+      "Razor Leaf",
+      "Vine Whip"
+    ],
+    "Candy": 100,
+    "Stamina": 120,
+    "Attack": 156,
+    "Defence": 158,
+    "Capture Rate %": 8,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Power Whip",
+      "Sludge Bomb",
+      "Solar Beam"
+    ]
+  },
+  "Onix": {
+    "Flee Rate %": 9,
+    "#": 95,
+    "Quick Moves": [
+      "Rock Throw",
+      "Tackle"
+    ],
+    "Candy": null,
+    "Stamina": 70,
+    "Attack": 90,
+    "Defence": 186,
+    "Capture Rate %": 16,
+    "Type": [
+      "Rock",
+      "Ground"
+    ],
+    "Special Moves": [
+      "Iron Head",
+      "Rock Slide",
+      "Stone Edge"
+    ]
+  },
+  "Gastly": {
+    "Flee Rate %": 10,
+    "#": 92,
+    "Quick Moves": [
+      "Lick",
+      "Sucker Punch"
+    ],
+    "Candy": 25,
+    "Stamina": 60,
+    "Attack": 136,
+    "Defence": 82,
+    "Capture Rate %": 32,
+    "Type": [
+      "Ghost",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dark Pulse",
+      "Ominous Wind",
+      "Sludge Bomb"
+    ]
+  },
+  "Drowzee": {
+    "Flee Rate %": 10,
+    "#": 96,
+    "Quick Moves": [
+      "Confusion",
+      "Pound"
+    ],
+    "Candy": 50,
+    "Stamina": 120,
+    "Attack": 104,
+    "Defence": 140,
+    "Capture Rate %": 40,
+    "Type": [
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Psybeam",
+      "Psychic",
+      "Psyshock"
+    ]
+  },
+  "Goldeen": {
+    "Flee Rate %": 15,
+    "#": 118,
+    "Quick Moves": [
+      "Mud Shot",
+      "Peck"
+    ],
+    "Candy": 50,
+    "Stamina": 90,
+    "Attack": 112,
+    "Defence": 126,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Aqua Tail",
+      "Horn Attack",
+      "Water Pulse"
+    ]
+  },
+  "Pidgey": {
+    "Flee Rate %": 20,
+    "#": 16,
+    "Quick Moves": [
+      "Quick Attack",
+      "Tackle"
+    ],
+    "Candy": 12,
+    "Stamina": 80,
+    "Attack": 94,
+    "Defence": 90,
+    "Capture Rate %": 40,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Air Cutter",
+      "Twister"
+    ]
+  },
+  "Hypno": {
+    "Flee Rate %": 6,
+    "#": 97,
+    "Quick Moves": [
+      "Confusion",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 170,
+    "Attack": 162,
+    "Defence": 196,
+    "Capture Rate %": 16,
+    "Type": [
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Psychic",
+      "Psyshock",
+      "Shadow Ball"
+    ]
+  },
+  "Machoke": {
+    "Flee Rate %": 7,
+    "#": 67,
+    "Quick Moves": [
+      "Karate Chop",
+      "Low Kick"
+    ],
+    "Candy": 100,
+    "Stamina": 160,
+    "Attack": 154,
+    "Defence": 144,
+    "Capture Rate %": 20,
+    "Type": [
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Brick Break",
+      "Cross Chop",
+      "Submission"
+    ]
+  },
+  "Exeggutor": {
+    "Flee Rate %": 6,
+    "#": 103,
+    "Quick Moves": [
+      "Confusion",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 190,
+    "Attack": 232,
+    "Defence": 164,
+    "Capture Rate %": 16,
+    "Type": [
+      "Grass",
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Psychic",
+      "Seed Bomb",
+      "Solar Beam"
+    ]
+  },
+  "Meowth": {
+    "Flee Rate %": 15,
+    "#": 52,
+    "Quick Moves": [
+      "Bite",
+      "Scratch"
+    ],
+    "Candy": 50,
+    "Stamina": 80,
+    "Attack": 104,
+    "Defence": 94,
+    "Capture Rate %": 40,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Dark Pulse",
+      "Night Slash"
+    ]
+  },
+  "Eevee": {
+    "Flee Rate %": 10,
+    "#": 133,
+    "Quick Moves": [
+      "Quick Attack",
+      "Tackle"
+    ],
+    "Candy": 25,
+    "Stamina": 110,
+    "Attack": 114,
+    "Defence": 128,
+    "Capture Rate %": 32,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Dig",
+      "Swift"
+    ]
+  },
+  "Sandshrew": {
+    "Flee Rate %": 10,
+    "#": 27,
+    "Quick Moves": [
+      "Mud Shot",
+      "Scratch"
+    ],
+    "Candy": 50,
+    "Stamina": 100,
+    "Attack": 90,
+    "Defence": 114,
+    "Capture Rate %": 40,
+    "Type": [
+      "Ground"
+    ],
+    "Special Moves": [
+      "Dig",
+      "Rock Slide",
+      "Rock Tomb"
+    ]
+  },
+  "Venomoth": {
+    "Flee Rate %": 7,
+    "#": 49,
+    "Quick Moves": [
+      "Bug Bite",
+      "Confusion"
+    ],
+    "Candy": null,
+    "Stamina": 140,
+    "Attack": 172,
+    "Defence": 154,
+    "Capture Rate %": 16,
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Bug Buzz",
+      "Poison Fang",
+      "Psychic"
+    ]
+  },
+  "Victreebel": {
+    "Flee Rate %": 5,
+    "#": 71,
+    "Quick Moves": [
+      "Acid",
+      "Razor Leaf"
+    ],
+    "Candy": null,
+    "Stamina": 160,
+    "Attack": 222,
+    "Defence": 152,
+    "Capture Rate %": 10,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Leaf Blade",
+      "Sludge Bomb",
+      "Solar Beam"
+    ]
+  },
+  "Nidorino": {
+    "Flee Rate %": 7,
+    "#": 33,
+    "Quick Moves": [
+      "Poison Jab",
+      "Poison Sting"
+    ],
+    "Candy": 100,
+    "Stamina": 122,
+    "Attack": 142,
+    "Defence": 128,
+    "Capture Rate %": 20,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dig",
+      "Horn Attack",
+      "Sludge Bomb"
+    ]
+  },
+  "Nidorina": {
+    "Flee Rate %": 7,
+    "#": 30,
+    "Quick Moves": [
+      "Bite",
+      "Poison Sting"
+    ],
+    "Candy": 100,
+    "Stamina": 140,
+    "Attack": 132,
+    "Defence": 136,
+    "Capture Rate %": 20,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dig",
+      "Poison Fang",
+      "Sludge Bomb"
+    ]
+  },
+  "Pidgeot": {
+    "Flee Rate %": 6,
+    "#": 18,
+    "Quick Moves": [
+      "Steel Wing",
+      "Wing Attack"
+    ],
+    "Candy": null,
+    "Stamina": 166,
+    "Attack": 170,
+    "Defence": 166,
+    "Capture Rate %": 10,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Air Cutter",
+      "Hurricane"
+    ]
+  },
+  "Tentacruel": {
+    "Flee Rate %": 7,
+    "#": 73,
+    "Quick Moves": [
+      "Acid",
+      "Poison Jab"
+    ],
+    "Candy": null,
+    "Stamina": 160,
+    "Attack": 170,
+    "Defence": 196,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Blizzard",
+      "Hydro Pump",
+      "Sludge Wave"
+    ]
+  },
+  "Kingler": {
+    "Flee Rate %": 7,
+    "#": 99,
+    "Quick Moves": [
+      "Metal Claw",
+      "Mud Shot"
+    ],
+    "Candy": null,
+    "Stamina": 110,
+    "Attack": 178,
+    "Defence": 168,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Vice Grip",
+      "Water Pulse",
+      "X-Scissor"
+    ]
+  },
+  "Exeggcute": {
+    "Flee Rate %": 10,
+    "#": 102,
+    "Quick Moves": [
+      "Confusion"
+    ],
+    "Candy": 50,
+    "Stamina": 120,
+    "Attack": 110,
+    "Defence": 132,
+    "Capture Rate %": 40,
+    "Type": [
+      "Grass",
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Ancient Power",
+      "Psychic",
+      "Seed Bomb"
+    ]
+  },
+  "Weepinbell": {
+    "Flee Rate %": 7,
+    "#": 70,
+    "Quick Moves": [
+      "Acid",
+      "Razor Leaf"
+    ],
+    "Candy": 100,
+    "Stamina": 130,
+    "Attack": 190,
+    "Defence": 110,
+    "Capture Rate %": 20,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Power Whip",
+      "Seed Bomb",
+      "Sludge Bomb"
+    ]
+  },
+  "Golbat": {
+    "Flee Rate %": 7,
+    "#": 42,
+    "Quick Moves": [
+      "Bite",
+      "Wing Attack"
+    ],
+    "Candy": null,
+    "Stamina": 150,
+    "Attack": 164,
+    "Defence": 164,
+    "Capture Rate %": 16,
+    "Type": [
+      "Poison",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Air Cutter",
+      "Ominous Wind",
+      "Poison Fang"
+    ]
+  },
+  "Gengar": {
+    "Flee Rate %": 5,
+    "#": 94,
+    "Quick Moves": [
+      "Shadow Claw",
+      "Sucker Punch"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 204,
+    "Defence": 156,
+    "Capture Rate %": 8,
+    "Type": [
+      "Ghost",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dark Pulse",
+      "Shadow Ball",
+      "Sludge Wave"
+    ]
+  },
+  "Rapidash": {
+    "Flee Rate %": 6,
+    "#": 78,
+    "Quick Moves": [
+      "Ember",
+      "Low Kick"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 200,
+    "Defence": 170,
+    "Capture Rate %": 12,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Drill Run",
+      "Fire Blast",
+      "Heat Wave"
+    ]
+  },
+  "Parasect": {
+    "Flee Rate %": 7,
+    "#": 47,
+    "Quick Moves": [
+      "Bug Bite",
+      "Fury Cutter"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 162,
+    "Defence": 170,
+    "Capture Rate %": 16,
+    "Type": [
+      "Bug",
+      "Grass"
+    ],
+    "Special Moves": [
+      "Cross Poison",
+      "Solar Beam",
+      "X-Scissor"
+    ]
+  },
+  "Dugtrio": {
+    "Flee Rate %": 6,
+    "#": 51,
+    "Quick Moves": [
+      "Mud Shot",
+      "Sucker Punch"
+    ],
+    "Candy": null,
+    "Stamina": 70,
+    "Attack": 148,
+    "Defence": 140,
+    "Capture Rate %": 16,
+    "Type": [
+      "Ground"
+    ],
+    "Special Moves": [
+      "Earthquake",
+      "Mud Bomb",
+      "Stone Edge"
+    ]
+  },
+  "Dodrio": {
+    "Flee Rate %": 6,
+    "#": 85,
+    "Quick Moves": [
+      "Feint Attack",
+      "Steel Wing"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 182,
+    "Defence": 150,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Aerial Ace",
+      "Air Cutter",
+      "Drill Peck"
+    ]
+  },
+  "Seadra": {
+    "Flee Rate %": 6,
+    "#": 117,
+    "Quick Moves": [
+      "Dragon Breath",
+      "Water Gun"
+    ],
+    "Candy": null,
+    "Stamina": 110,
+    "Attack": 176,
+    "Defence": 150,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Blizzard",
+      "Dragon Pulse",
+      "Hydro Pump"
+    ]
+  },
+  "Nidoran\u2640": {
+    "Flee Rate %": 15,
+    "#": 29,
+    "Quick Moves": [
+      "Bite",
+      "Poison Sting"
+    ],
+    "Candy": 25,
+    "Stamina": 110,
+    "Attack": 100,
+    "Defence": 104,
+    "Capture Rate %": 40,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Poison Fang",
+      "Sludge Bomb"
+    ]
+  },
+  "Persian": {
+    "Flee Rate %": 7,
+    "#": 53,
+    "Quick Moves": [
+      "Feint Attack",
+      "Scratch"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 156,
+    "Defence": 146,
+    "Capture Rate %": 16,
+    "Type": [
+      "Normal"
+    ],
+    "Special Moves": [
+      "Night Slash",
+      "Play Rough",
+      "Power Gem"
+    ]
+  },
+  "Nidoking": {
+    "Flee Rate %": 5,
+    "#": 34,
+    "Quick Moves": [
+      "Fury Cutter",
+      "Poison Jab"
+    ],
+    "Candy": null,
+    "Stamina": 162,
+    "Attack": 204,
+    "Defence": 170,
+    "Capture Rate %": 10,
+    "Type": [
+      "Poison",
+      "Ground"
+    ],
+    "Special Moves": [
+      "Earthquake",
+      "Megahorn",
+      "Sludge Wave"
+    ]
+  },
+  "Scyther": {
+    "Flee Rate %": 9,
+    "#": 123,
+    "Quick Moves": [
+      "Fury Cutter",
+      "Steel Wing"
+    ],
+    "Candy": null,
+    "Stamina": 140,
+    "Attack": 176,
+    "Defence": 180,
+    "Capture Rate %": 24,
+    "Type": [
+      "Bug",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Bug Buzz",
+      "Night Slash",
+      "X-Scissor"
+    ]
+  },
+  "Zubat": {
+    "Flee Rate %": 20,
+    "#": 41,
+    "Quick Moves": [
+      "Bite",
+      "Quick Attack"
+    ],
+    "Candy": 50,
+    "Stamina": 80,
+    "Attack": 88,
+    "Defence": 90,
+    "Capture Rate %": 40,
+    "Type": [
+      "Poison",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Air Cutter",
+      "Poison Fang",
+      "Sludge Bomb"
+    ]
+  },
+  "Charmander": {
+    "Flee Rate %": 10,
+    "#": 4,
+    "Quick Moves": [
+      "Ember",
+      "Scratch"
+    ],
+    "Candy": 25,
+    "Stamina": 78,
+    "Attack": 128,
+    "Defence": 108,
+    "Capture Rate %": 16,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Flame Burst",
+      "Flame Charge",
+      "Flamethrower"
+    ]
+  },
+  "Electrode": {
+    "Flee Rate %": 6,
+    "#": 101,
+    "Quick Moves": [
+      "Spark",
+      "Tackle"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 150,
+    "Defence": 174,
+    "Capture Rate %": 16,
+    "Type": [
+      "Electric"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Hyper Beam",
+      "Thunderbolt"
+    ]
+  },
+  "Moltres": {
+    "Flee Rate %": 10,
+    "#": 146,
+    "Quick Moves": [
+      "Ember"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 242,
+    "Defence": 194,
+    "Capture Rate %": "-",
+    "Type": [
+      "Fire",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Fire Blast",
+      "Flamethrower",
+      "Heat Wave"
+    ]
+  },
+  "Gloom": {
+    "Flee Rate %": 7,
+    "#": 44,
+    "Quick Moves": [
+      "Acid",
+      "Razor Leaf"
+    ],
+    "Candy": 100,
+    "Stamina": 120,
+    "Attack": 162,
+    "Defence": 158,
+    "Capture Rate %": 24,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Moonblast",
+      "Petal Blizzard",
+      "Sludge Bomb"
+    ]
+  },
+  "Flareon": {
+    "Flee Rate %": 6,
+    "#": 136,
+    "Quick Moves": [
+      "Ember"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 238,
+    "Defence": 178,
+    "Capture Rate %": 12,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Fire Blast",
+      "Flamethrower",
+      "Heat Wave"
+    ]
+  },
+  "Kabuto": {
+    "Flee Rate %": 9,
+    "#": 140,
+    "Quick Moves": [
+      "Mud Shot",
+      "Scratch"
+    ],
+    "Candy": 50,
+    "Stamina": 60,
+    "Attack": 148,
+    "Defence": 142,
+    "Capture Rate %": 32,
+    "Type": [
+      "Rock",
+      "Water"
+    ],
+    "Special Moves": [
+      "Ancient Power",
+      "Aqua Jet",
+      "Rock Tomb"
+    ]
+  },
+  "Electabuzz": {
+    "Flee Rate %": 9,
+    "#": 125,
+    "Quick Moves": [
+      "Low Kick",
+      "Thunder Shock"
+    ],
+    "Candy": null,
+    "Stamina": 130,
+    "Attack": 198,
+    "Defence": 160,
+    "Capture Rate %": 24,
+    "Type": [
+      "Electric"
+    ],
+    "Special Moves": [
+      "Thunder",
+      "Thunder Punch",
+      "Thunderbolt"
+    ]
+  },
+  "Venonat": {
+    "Flee Rate %": 15,
+    "#": 48,
+    "Quick Moves": [
+      "Bug Bite",
+      "Confusion"
+    ],
+    "Candy": 50,
+    "Stamina": 120,
+    "Attack": 108,
+    "Defence": 118,
+    "Capture Rate %": 40,
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Dazzling Gleam",
+      "Psybeam",
+      "Shadow Ball"
+    ]
+  },
+  "Charizard": {
+    "Flee Rate %": 5,
+    "#": 6,
+    "Quick Moves": [
+      "Ember",
+      "Wing Attack"
+    ],
+    "Candy": null,
+    "Stamina": 156,
+    "Attack": 212,
+    "Defence": 182,
+    "Capture Rate %": 4,
+    "Type": [
+      "Fire",
+      "Flying"
+    ],
+    "Special Moves": [
+      "Dragon Claw",
+      "Fire Blast",
+      "Flamethrower"
+    ]
+  },
+  "Pikachu": {
+    "Flee Rate %": 10,
+    "#": 25,
+    "Quick Moves": [
+      "Quick Attack",
+      "Thunder Shock"
+    ],
+    "Candy": 50,
+    "Stamina": 70,
+    "Attack": 124,
+    "Defence": 108,
+    "Capture Rate %": 16,
+    "Type": [
+      "Electric"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Thunder",
+      "Thunderbolt"
+    ]
+  },
+  "Machop": {
+    "Flee Rate %": 10,
+    "#": 66,
+    "Quick Moves": [
+      "Karate Chop",
+      "Low Kick"
+    ],
+    "Candy": 25,
+    "Stamina": 140,
+    "Attack": 118,
+    "Defence": 96,
+    "Capture Rate %": 40,
+    "Type": [
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Brick Break",
+      "Cross Chop",
+      "Low Sweep"
+    ]
+  },
+  "Caterpie": {
+    "Flee Rate %": 20,
+    "#": 10,
+    "Quick Moves": [
+      "Bug Bite",
+      "Tackle"
+    ],
+    "Candy": 12,
+    "Stamina": 90,
+    "Attack": 62,
+    "Defence": 66,
+    "Capture Rate %": 40,
+    "Type": [
+      "Bug"
+    ],
+    "Special Moves": [
+      "Struggle"
+    ]
+  },
+  "Kakuna": {
+    "Flee Rate %": 9,
+    "#": 14,
+    "Quick Moves": [
+      "Bug Bite",
+      "Poison Sting"
+    ],
+    "Candy": 50,
+    "Stamina": 90,
+    "Attack": 62,
+    "Defence": 82,
+    "Capture Rate %": 20,
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Struggle"
+    ]
+  },
+  "Horsea": {
+    "Flee Rate %": 10,
+    "#": 116,
+    "Quick Moves": [
+      "Bubble",
+      "Water Gun"
+    ],
+    "Candy": 50,
+    "Stamina": 60,
+    "Attack": 122,
+    "Defence": 100,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Bubble Beam",
+      "Dragon Pulse",
+      "Flash Cannon"
+    ]
+  },
+  "Seaking": {
+    "Flee Rate %": 7,
+    "#": 119,
+    "Quick Moves": [
+      "Peck",
+      "Poison Jab"
+    ],
+    "Candy": null,
+    "Stamina": 160,
+    "Attack": 172,
+    "Defence": 160,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Drill Run",
+      "Icy Wind",
+      "Megahorn"
+    ]
+  },
+  "Dewgong": {
+    "Flee Rate %": 6,
+    "#": 87,
+    "Quick Moves": [
+      "Frost Breath",
+      "Ice Shard"
+    ],
+    "Candy": null,
+    "Stamina": 180,
+    "Attack": 156,
+    "Defence": 192,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water",
+      "Ice"
+    ],
+    "Special Moves": [
+      "Aqua Jet",
+      "Blizzard",
+      "Icy Wind"
+    ]
+  },
+  "Hitmonchan": {
+    "Flee Rate %": 9,
+    "#": 107,
+    "Quick Moves": [
+      "Bullet Punch",
+      "Rock Smash"
+    ],
+    "Candy": null,
+    "Stamina": 100,
+    "Attack": 138,
+    "Defence": 204,
+    "Capture Rate %": 16,
+    "Type": [
+      "Fighting"
+    ],
+    "Special Moves": [
+      "Brick Break",
+      "Fire Punch",
+      "Ice Punch",
+      "Thunder Punch"
+    ]
+  },
+  "Clefable": {
+    "Flee Rate %": 6,
+    "#": 36,
+    "Quick Moves": [
+      "Pound",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 190,
+    "Attack": 178,
+    "Defence": 178,
+    "Capture Rate %": 8,
+    "Type": [
+      "Fairy"
+    ],
+    "Special Moves": [
+      "Dazzling Gleam",
+      "Moonblast",
+      "Psychic"
+    ]
+  },
+  "Starmie": {
+    "Flee Rate %": 6,
+    "#": 121,
+    "Quick Moves": [
+      "Quick Attack",
+      "Water Gun"
+    ],
+    "Candy": null,
+    "Stamina": 120,
+    "Attack": 194,
+    "Defence": 192,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water",
+      "Psychic"
+    ],
+    "Special Moves": [
+      "Hydro Pump",
+      "Power Gem",
+      "Psybeam"
+    ]
+  },
+  "Rhyhorn": {
+    "Flee Rate %": 10,
+    "#": 111,
+    "Quick Moves": [
+      "Mud-Slap",
+      "Rock Smash"
+    ],
+    "Candy": 50,
+    "Stamina": 160,
+    "Attack": 110,
+    "Defence": 116,
+    "Capture Rate %": 40,
+    "Type": [
+      "Ground",
+      "Rock"
+    ],
+    "Special Moves": [
+      "Bulldoze",
+      "Horn Attack",
+      "Stomp"
+    ]
+  },
+  "Ninetales": {
+    "Flee Rate %": 6,
+    "#": 38,
+    "Quick Moves": [
+      "Ember",
+      "Feint Attack"
+    ],
+    "Candy": null,
+    "Stamina": 146,
+    "Attack": 176,
+    "Defence": 194,
+    "Capture Rate %": 8,
+    "Type": [
+      "Fire"
+    ],
+    "Special Moves": [
+      "Fire Blast",
+      "Flamethrower",
+      "Heat Wave"
+    ]
+  },
+  "Cubone": {
+    "Flee Rate %": 10,
+    "#": 104,
+    "Quick Moves": [
+      "Mud-Slap",
+      "Rock Smash"
+    ],
+    "Candy": 50,
+    "Stamina": 100,
+    "Attack": 102,
+    "Defence": 150,
+    "Capture Rate %": 32,
+    "Type": [
+      "Ground"
+    ],
+    "Special Moves": [
+      "Bone Club",
+      "Bulldoze",
+      "Dig"
+    ]
+  },
+  "Weedle": {
+    "Flee Rate %": 20,
+    "#": 13,
+    "Quick Moves": [
+      "Bug Bite",
+      "Poison Sting"
+    ],
+    "Candy": 12,
+    "Stamina": 80,
+    "Attack": 68,
+    "Defence": 64,
+    "Capture Rate %": 40,
+    "Type": [
+      "Bug",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Struggle"
+    ]
+  },
+  "Vileplume": {
+    "Flee Rate %": 5,
+    "#": 45,
+    "Quick Moves": [
+      "Acid",
+      "Razor Leaf"
+    ],
+    "Candy": null,
+    "Stamina": 150,
+    "Attack": 202,
+    "Defence": 190,
+    "Capture Rate %": 12,
+    "Type": [
+      "Grass",
+      "Poison"
+    ],
+    "Special Moves": [
+      "Moonblast",
+      "Petal Blizzard",
+      "Solar Beam"
+    ]
+  },
+  "Clefairy": {
+    "Flee Rate %": 10,
+    "#": 35,
+    "Quick Moves": [
+      "Pound",
+      "Zen Headbutt"
+    ],
+    "Candy": 50,
+    "Stamina": 140,
+    "Attack": 116,
+    "Defence": 124,
+    "Capture Rate %": 24,
+    "Type": [
+      "Fairy"
+    ],
+    "Special Moves": [
+      "Body Slam",
+      "Disarming Voice",
+      "Moonblast"
+    ]
+  },
+  "Grimer": {
+    "Flee Rate %": 10,
+    "#": 88,
+    "Quick Moves": [
+      "Acid",
+      "Mud-Slap"
+    ],
+    "Candy": 50,
+    "Stamina": 160,
+    "Attack": 124,
+    "Defence": 110,
+    "Capture Rate %": 40,
+    "Type": [
+      "Poison"
+    ],
+    "Special Moves": [
+      "Mud Bomb",
+      "Sludge",
+      "Sludge Bomb"
+    ]
+  },
+  "Magneton": {
+    "Flee Rate %": 6,
+    "#": 82,
+    "Quick Moves": [
+      "Spark",
+      "Thunder Shock"
+    ],
+    "Candy": null,
+    "Stamina": 100,
+    "Attack": 186,
+    "Defence": 180,
+    "Capture Rate %": 16,
+    "Type": [
+      "Electric",
+      "Steel"
+    ],
+    "Special Moves": [
+      "Discharge",
+      "Flash Cannon",
+      "Magnet Bomb"
+    ]
+  },
+  "Mr. Mime": {
+    "Flee Rate %": 9,
+    "#": 122,
+    "Quick Moves": [
+      "Confusion",
+      "Zen Headbutt"
+    ],
+    "Candy": null,
+    "Stamina": 80,
+    "Attack": 154,
+    "Defence": 196,
+    "Capture Rate %": 24,
+    "Type": [
+      "Psychic",
+      "Fairy"
+    ],
+    "Special Moves": [
+      "Psybeam",
+      "Psychic",
+      "Shadow Ball"
+    ]
+  },
+  "Lapras": {
+    "Flee Rate %": 9,
+    "#": 131,
+    "Quick Moves": [
+      "Frost Breath",
+      "Ice Shard"
+    ],
+    "Candy": null,
+    "Stamina": 260,
+    "Attack": 186,
+    "Defence": 190,
+    "Capture Rate %": 16,
+    "Type": [
+      "Water",
+      "Ice"
+    ],
+    "Special Moves": [
+      "Blizzard",
+      "Dragon Pulse",
+      "Ice Beam"
+    ]
+  },
+  "Staryu": {
+    "Flee Rate %": 15,
+    "#": 120,
+    "Quick Moves": [
+      "Quick Attack",
+      "Water Gun"
+    ],
+    "Candy": 50,
+    "Stamina": 60,
+    "Attack": 130,
+    "Defence": 128,
+    "Capture Rate %": 40,
+    "Type": [
+      "Water"
+    ],
+    "Special Moves": [
+      "Bubble Beam",
+      "Power Gem",
+      "Swift"
+    ]
+  }
+}
